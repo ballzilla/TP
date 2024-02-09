@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Mod Tools VPN
 // @namespace    http://www.reddit.com/u/rke12
-// @updateURL    https://github.com/ballzilla/TP/raw/master/VPNCheck.user.js
-// @downloadURL  https://github.com/ballzilla/TP/raw/master/VPNCheck.user.js
+// @updateURL    https://github.com/ballzilla/TP/raw/main/VPNCheck.user.js
+// @downloadURL  https://github.com/ballzilla/TP/raw/main/VPNCheck.user.js
 // @version      1.1.0
 // @description  Mod Tools VPN Check
 // @author       Ballzilla
